@@ -48,7 +48,7 @@
   
   | Project              | URL                        | Description                                         |
   |:--------------------:|:--------------------------:|:---------------------------------------------------:|
-  | Peanutss Bot         | https://peanutssbot.tk     | A Multifunctional Discord Bot                       |
-  | Peanutss Bot Webpage | https://peanutssbot.tk     | A Bot Webpage |
+  | Peanutss Bot         | https://discord.com/api/oauth2/authorize?client_id=728462830407254088&permissions=8&scope=applications.commands%20bot    | A Multifunctional Discord Bot                       |
+  | Peanutss Bot Webpage | https://anphongdoa5.github.io/Peanutss-Bot-Website    | A Bot Webpage |
   
 </div>
