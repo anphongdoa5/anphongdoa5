@@ -44,3 +44,11 @@
 </div>
 
 ###
+  <h1>Public Projects</h1> 
+  
+  | Project              | URL                        | Description                                         |
+  |:--------------------:|:--------------------------:|:---------------------------------------------------:|
+  | Peanutss Bot         | https://peanutssbot.tk     | A Multifunctional Discord Bot                       |
+  | Peanutss Bot Webpage | https://peanutssbot.tk     | A Bot Webpage |
+  
+</div>
