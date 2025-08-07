@@ -1,4 +1,4 @@
-<h2 align="left">Hello mate! I'm An - a junior Business Analyst XD</h2>
+<h2 align="left">Hello mate! I'm An. XD</h2>
 
 ###
 
