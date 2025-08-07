@@ -6,11 +6,9 @@
 ###
 
 <div align="left">
-  <img src="https://6klabs.com/widget/spotify/44725a2cd7d973d8a5762cebd404c0018d29626bb36790ada575fce9756b276a"  />
   <img src="https://github-readme-stats.vercel.app/api?username=anphongdoa5&theme=radical&show_icons=true&hide_border=true&count_private=true"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anphongdoa5&theme=radical&show_icons=true&hide_border=true&layout=compact"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anphongdoa5&theme=radical&hide_border=true"  />
-  <img src="https://6klabs.com/widget/spotify/44725a2cd7d973d8a5762cebd404c0018d29626bb36790ada575fce9756b276a"  />
 
 </div>
 
