@@ -46,9 +46,9 @@
 ###
   <h1>Public Projects</h1> 
   
-  | Project              | URL                        | Description                                         |
+  | Project              | URL                        | Description                                         | 
   |:--------------------:|:--------------------------:|:---------------------------------------------------:|
-  | Peanutss Bot         | https://discord.com/api/oauth2/authorize?client_id=728462830407254088&permissions=8&scope=applications.commands%20bot    | A Discord Bot                       |
-  | Peanutss Bot Webpage | https://anphongdoa5.github.io/Peanutss-Bot-Website    | A Bot's Webpage |
+  | Peanutss Bot (2022)        | https://discord.com/api/oauth2/authorize?client_id=728462830407254088&permissions=8&scope=applications.commands%20bot    | A Discord Bot                       |
+  | Peanutss Bot Webpage (2022) | https://anphongdoa5.github.io/Peanutss-Bot-Website    | A Bot's Webpage |
   
 </div>
