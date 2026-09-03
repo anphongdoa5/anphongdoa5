@@ -50,6 +50,6 @@
   |:--------------------:|:--------------------------:|:---------------------------------------------------:|
   | Peanutss Bot (2022)        | https://discord.com/api/oauth2/authorize?client_id=728462830407254088&permissions=8&scope=applications.commands%20bot    | A Discord Bot                       |
   | Peanutss Bot Webpage (2022) | https://anphongdoa5.github.io/Peanutss-Bot-Website    | A Bot's Webpage |
-  | Ví Việt UX/UI Design | https://www.figma.com/design/0Mlu5HBqbgSwc3dj46t78B/Vi-Viet-UX-UI-Liquid-Glass    | VietNamese e-Wallet Concept |
+  | Ví Việt UX/UI Design (2024) | https://www.figma.com/design/0Mlu5HBqbgSwc3dj46t78B/Vi-Viet-UX-UI-Liquid-Glass    | VietNamese e-Wallet Concept |
   
 </div>
